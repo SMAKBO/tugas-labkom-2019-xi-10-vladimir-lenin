@@ -11,8 +11,12 @@ body {
 }
 html {
     overflow-x: hidden;
-}
-h1,
+
+h1 { font-family: 'Amatic SC', cursive;font-weight: 200;
+    color: #111;
+    line-height: 1.5em;
+    margin-top: 0; }
+{
 h2,
 h3,
 h4,
